@@ -1,6 +1,6 @@
 import './App.css';
 import React, { useEffect, useState } from 'react';
-import Posts from './components/Posts';
+import Posts from './components/posts';
 import PostLoadingComponent from './components/PostLoading';
 
 
